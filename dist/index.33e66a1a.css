@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+}
+
+.btn {
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+  background: #0e6eff;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 30px;
+  font-size: 18px;
+  transition: all .3s;
+}
+
+.btn:hover {
+  background: #3385ff;
+}
+
+/*# sourceMappingURL=index.33e66a1a.css.map */
